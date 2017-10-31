@@ -36,4 +36,4 @@ Swiss open dataset (opendata.swiss) :
 	
 # Questions for TAs
 - What kind of problems can we expect ?
-- Do you happen to know any algorythms for geographical clustering ? 
+- Do you happen to know any algorithms for geographical clustering ? 
