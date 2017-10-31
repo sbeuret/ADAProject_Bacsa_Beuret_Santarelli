@@ -21,20 +21,19 @@ the quality of the current partition.
 
 # Dataset
 Swiss open dataset (opendata.swiss) :
-	- Election au Conseil National (suffrages des partis et forces des partis depuis 1975 : districts et communes)
-	- Votations populaires (résultats au niveau des communes depuis 1981)
-	- Population résidente permanente et non permanente selon les niveaux géographiques institutionnels, 
-		le sexe, la nationalité (catégorie), le lieu de naissance et la classe d'âge
-	- swissBoundaries 3D
+- Election au Conseil National (suffrages des partis et forces des partis depuis 1975 : districts et communes)
+- Votations populaires (résultats au niveau des communes depuis 1981)
+- Population résidente permanente et non permanente selon les niveaux géographiques institutionnels, le sexe, la nationalité (catégorie), le lieu de naissance et la classe d'âge
+- swissBoundaries 3D
 
 # A list of internal milestones up until project milestone 2
-	- Download datasets
-	- Clean (if needed)
-	- Map data to Swiss map
-	- Build model for both elections
-	- Find an optimization algorithm
-	- Sweep hyperparameters
+- Download datasets
+- Clean (if needed)
+- Map data to Swiss map
+- Build model for both elections
+- Find an optimization algorithm
+- Sweep hyperparameters
 	
 # Questions for TAs
-What kind of problems can we expect ?
-Do you happen to know any algorythms for geographical clustering ? 
+- What kind of problems can we expect ?
+- Do you happen to know any algorythms for geographical clustering ? 
