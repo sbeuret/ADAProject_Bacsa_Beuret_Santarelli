@@ -116,7 +116,7 @@
       .enter().append("rect")
         .attr("height", 10)
         .attr("x", function(d) { return d.x0; })
-        .attr("width", function(d) { return d.x1 - d.x0; })
+        .attr("width", function(d) { return 450 <!--d.x1 - d.x0-->; })
         .style("fill", function(d) { return d.z; });
 
     color_map_9805beb351c44005b741b9550d9fce3d.g.call(color_map_9805beb351c44005b741b9550d9fce3d.xAxis).append("text")
