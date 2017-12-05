@@ -1,0 +1,14 @@
+Performing C SOURCE FILE Test HAVE_FLAG_ADDRESS_SANITIZER failed with the following output:
+Change Dir: /Users/valentine/Documents/EPFL/MA3/ADA/ADAProject_Bacsa_Beuret_Santarelli/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.6/ext/commonmarker/cmark/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4a7e6/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_4a7e6.dir/build.make CMakeFiles/cmTC_4a7e6.dir/build
+Building C object CMakeFiles/cmTC_4a7e6.dir/src.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fPIC -DHAVE_FLAG_ADDRESS_SANITIZER -Werror -faddress-sanitizer   -faddress-sanitizer -o CMakeFiles/cmTC_4a7e6.dir/src.c.o   -c /Users/valentine/Documents/EPFL/MA3/ADA/ADAProject_Bacsa_Beuret_Santarelli/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.6/ext/commonmarker/cmark/build/CMakeFiles/CMakeTmp/src.c
+clang: error: unknown argument: '-faddress-sanitizer'
+clang: error: unknown argument: '-faddress-sanitizer'
+make[1]: *** [CMakeFiles/cmTC_4a7e6.dir/src.c.o] Error 1
+make: *** [cmTC_4a7e6/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
