@@ -1,5 +1,10 @@
-# Welcome to our project, it is a nice project
+# Welcome to our github page
+
+Please go to the readme of the project
+
+Kiran Bacsa
+Samuel Beuret
+Valentine Santarelli
 
 
-{% include test.html %}
 
