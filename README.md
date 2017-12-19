@@ -2,9 +2,12 @@
 
 Please go to the readme of the project
 
-Kiran Bacsa \n
-Samuel Beuret \n
-Valentine Santarelli \n
+Kiran Bacsa
+
+Samuel Beuret
+
+Valentine Santarelli
+
 
 
 
